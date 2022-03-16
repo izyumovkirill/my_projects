@@ -5,7 +5,7 @@
 [id1]: https://github.com/izyumovkirill/projects/tree/main/product_analytics_metrics
 [id2]: https://github.com/izyumovkirill/projects/tree/main/cars_analytics_regression
 [id3]: https://github.com/izyumovkirill/projects/tree/main/bootstrap
-[id4]: https://github.com/izyumovkirill/projects/tree/main/ab_testing
+[id4]: https://github.com/izyumovkirill/my_projects/tree/master/AB_testing
 [id5]: https://github.com/izyumovkirill/projects/tree/main/RFM-analysis
 
 | № | Проект | Описание | Инструменты |
