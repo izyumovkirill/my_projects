@@ -2,11 +2,12 @@
 В этом репозитории размещены проекты, сделанные в процессе обучения на курсах Karpov.Courses "Аналитик данных".  
 Далее приведена общая информация о проекте и используемые инструменты в процессе выполнения проекта.
 
-[id1]: https://github.com/izyumovkirill/projects/tree/master/product_analytics_metrics
-[id2]: https://github.com/izyumovkirill/projects/tree/master/cars_analytics_regression
-[id3]: https://github.com/izyumovkirill/projects/tree/master/bootstrap
+[id1]: https://github.com/izyumovkirill/my_projects/tree/master/product_analytics_metrics
+[id2]: https://github.com/izyumovkirill/my_projects/tree/master/cars_analytics_regression
+[id3]: https://github.com/izyumovkirill/my_projects/tree/master/bootstrap
 [id4]: https://github.com/izyumovkirill/my_projects/tree/master/AB_testing
-[id5]: https://github.com/izyumovkirill/projects/tree/master/RFM-analysis
+[id5]: https://github.com/izyumovkirill/my_projects/tree/master/RFM-analysis
+
 
 | № | Проект | Описание | Инструменты |
 | :- | :--------------------- | :---------------------------| :---------------------------|
